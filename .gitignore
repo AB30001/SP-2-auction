@@ -1,2 +1,6 @@
 node_modules/
+dist/*
+!dist/css
+dist/css/*
+!dist/css/styles.css
 
