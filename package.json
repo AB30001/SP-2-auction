@@ -1,0 +1,32 @@
+{
+    "name": "SP-2-auction",
+    "version": "0.0.1",
+    "description": "A front-end auction website developed for a semester project, utilizing the Noroff APIs for functionality",
+    "scripts": {
+        "build": "sass src/scss/main.scss:dist/css/main.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AB30001/SP-2-auction"
+    },
+    "keywords": [
+        "CSS",
+        "CSS Frameworks",
+        "Bootstrap",
+        "SCSS",
+        "SASS"
+    ],
+    "author": "Arnas Balciunas",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2",
+        "sass": "^1.79.3"
+    }
+}
