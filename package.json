@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "A front-end auction website developed for a semester project, utilizing the Noroff APIs for functionality",
     "scripts": {
-        "build": "sass src/scss/main.scss:dist/css/main.css",
+        "build": "echo 'No build step required'",
         "dev": "sass --watch src/scss/main.scss:dist/css/main.css"
     },
     "repository": {
